@@ -25,7 +25,7 @@ public class App
 //    	 cr.setFirstResult(0);  // starting point
 //    	 cr.setMaxResults(3);  // maximum record read
     	 
-//    	 cr.addOrder(Order.desc("salary"));
+//    	 cr.addOrder(Order.desc("salary"));//on the basis of salary result read in descresing order
 //    	 cr.addOrder(Order.asc("id"));
     	 
 //    	 cr.add(Restrictions.lt("salary",34000)); //less then
